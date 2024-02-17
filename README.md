@@ -1,1 +1,2 @@
-# Portfolio
+                                                                      # Portfolio
+This repository contains the HTML and CSS code for the portfolio of Ramisetty Amrutha Varshini, a web developer and designer. The portfolio includes sections for an introduction, projects showcasing proficiency in C and C++, and contact information. The styling is clean and responsive, with a focus on readability and aesthetics. To view the portfolio, open the "index.html" file in a web browser. Feel free to customize the content and styling as needed. Connect with Ramisetty Amrutha Varshini through the provided email, LinkedIn, and GitHub links.
